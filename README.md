@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalia.
-- 👀 I’m interested in all things Data Science
-- 🌱 I’m currently learning the Google Data Analytics Course
+- 👀 I’m interested in all things Data Engineering and Data Science
+- 🌱 I’m recently completed the Google Data Analytics Course, which you can my case study 'here'.
 - 💞️ I’m looking to collaborate on.. anything-- I'd love to jump in and help with any kinds of projects
 - 📫 Feel free to message me on LinkedIn!
 
